@@ -1,0 +1,23 @@
+{
+  "storm_1_1": { "sounds": ["sandstorm:storm/1_1"] },
+  "storm_1_2": { "sounds": ["sandstorm:storm/1_2"] },
+  "storm_1_3": { "sounds": ["sandstorm:storm/1_3"] },
+  "storm_1_4": { "sounds": ["sandstorm:storm/1_4"] },
+  "storm_2_1": { "sounds": ["sandstorm:storm/2_1"] },
+  "storm_2_2": { "sounds": ["sandstorm:storm/2_2"] },
+  "storm_2_3": { "sounds": ["sandstorm:storm/2_3"] },
+  "storm_2_4": { "sounds": ["sandstorm:storm/2_4"] },
+  "storm_3_1": { "sounds": ["sandstorm:storm/3_1"] },
+  "storm_3_2": { "sounds": ["sandstorm:storm/3_2"] },
+  "storm_3_3": { "sounds": ["sandstorm:storm/3_3"] },
+  "storm_3_4": { "sounds": ["sandstorm:storm/3_4"] },
+  "storm_4_1": { "sounds": ["sandstorm:storm/4_1"] },
+  "storm_4_2": { "sounds": ["sandstorm:storm/4_2"] },
+  "storm_4_4": { "sounds": ["sandstorm:storm/4_4"] },
+  "storm_5_1": { "sounds": ["sandstorm:storm/5_1"] },
+  "storm_5_2": { "sounds": ["sandstorm:storm/5_2"] },
+  "storm_5_3": { "sounds": ["sandstorm:storm/5_3"] },
+  "storm_5_4": { "sounds": ["sandstorm:storm/5_4"] },
+  "storm_5_5": { "sounds": ["sandstorm:storm/5_5"] },
+  "storm_5_6": { "sounds": ["sandstorm:storm/5_6"] }
+}

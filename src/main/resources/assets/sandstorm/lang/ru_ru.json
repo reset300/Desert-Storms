@@ -1,0 +1,13 @@
+{
+  "sandstorm.ui.storm_active": "Буря: Фаза %s | %s",
+  "sandstorm.ui.phase": "Фаза",
+  "sandstorm.ui.shelter.excellent": "Отличное укрытие",
+  "sandstorm.ui.shelter.good": "Хорошее укрытие",
+  "sandstorm.ui.shelter.moderate": "Среднее укрытие",
+  "sandstorm.ui.shelter.poor": "Плохое укрытие",
+  "sandstorm.ui.shelter.minimal": "Минимальное укрытие",
+  "sandstorm.ui.shelter.none": "Нет укрытия",
+  "sandstorm.command.shake.success": "Тряска экрана активирована! Интенсивность: %s, Длительность: %s",
+  "sandstorm.command.shake.default": "Стандартная тряска экрана активирована!",
+  "sandstorm.debug.blocked": "нет иди нахуй"
+}

@@ -1,0 +1,13 @@
+{
+  "sandstorm.ui.storm_active": "Буря: Фаза %s | %s",
+  "sandstorm.ui.phase": "Фаза",
+  "sandstorm.ui.shelter.excellent": "Відмінне укриття",
+  "sandstorm.ui.shelter.good": "Добре укриття",
+  "sandstorm.ui.shelter.moderate": "Помірне укриття",
+  "sandstorm.ui.shelter.poor": "Погане укриття",
+  "sandstorm.ui.shelter.minimal": "Мінімальне укриття",
+  "sandstorm.ui.shelter.none": "Немає укриття",
+  "sandstorm.command.shake.success": "Тремтіння екрана активовано! Інтенсивність: %s, Тривалість: %s",
+  "sandstorm.command.shake.default": "Стандартне тремтіння екрана активовано!",
+  "sandstorm.debug.blocked": "немає, йди нахуй"
+}
